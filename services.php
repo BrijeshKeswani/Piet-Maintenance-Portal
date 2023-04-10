@@ -38,41 +38,41 @@
          <div class="header_main">
             <div class="mobile_menu">
                <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                  <div class="logo_mobile"><a href="index.html"><img src="images/logo.png"></a></div>
+                  <div class="logo_mobile"><a href="index.php"><img src="images/logo.png"></a></div>
                   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
                   </button>
                   <div class="collapse navbar-collapse" id="navbarNav">
                      <ul class="navbar-nav">
                         <li class="nav-item">
-                           <a class="nav-link" href="index.html">Home</a>
+                           <a class="nav-link" href="index.php">Home</a>
                         </li>
                         <li class="nav-item">
-                           <a class="nav-link" href="about.html">About</a>
+                           <a class="nav-link" href="about.php">About</a>
                         </li>
                         <li class="nav-item">
-                           <a class="nav-link" href="services.html">Services</a>
+                           <a class="nav-link" href="services.php">Services</a>
                         </li>
                         <li class="nav-item">
-                           <a class="nav-link " href="blog.html">Blog</a>
+                           <a class="nav-link " href="blog.php">Blog</a>
                         </li>
                         <li class="nav-item">
-                           <a class="nav-link " href="contact.html">Contact</a>
+                           <a class="nav-link " href="contact.php">Contact</a>
                         </li>
                      </ul>
                   </div>
                </nav>
             </div>
             <div class="container-fluid">
-               <!-- <div class="logo"><a href="index.html"><img src="images/logo.png"></a></div> -->
+               <!-- <div class="logo"><a href="index.php"><img src="images/logo.png"></a></div> -->
                <div class="menu_main">
                   <ul>
-                     <li class="active"><a href="index.html">Home</a></li>
-                     <li><a href="about.html">About Us</a></li>
-                     <li><a href="services.html">Services</a></li>
-                     <li><a href="blog.html">Instruction</a></li>
-                     <li><a href="contact.html">Contact</a></li>
-                     <li><a href="login.html">Login/Signup</a></li>
+                     <li class="active"><a href="index.php">Home</a></li>
+                     <li><a href="about.php">About Us</a></li>
+                     <li><a href="services.php">Services</a></li>
+                     <li><a href="blog.php">Instruction</a></li>
+                     <li><a href="contact.php">Contact</a></li>
+                     <li><a href="login.php">Login/Signup</a></li>
                   </ul>
                </div>
             </div>
@@ -88,15 +88,15 @@
                <div class="row">
                   <div class="col-md-4">
                      <div><img src="images/photo-1525547719571-a2d4ac8945e2.jpg" class="services_img"></div>
-                     <div class="btn_main"><a href="Form.html">Appliance</a></div>
+                     <div class="btn_main"><a href="Form.php">Appliance</a></div>
                   </div>
                   <div class="col-md-4">
                      <div><img src="images/college-furniture-2.jpg" class="services_img"  style="height: 27rem;"></div>
-                     <div class="btn_main active"><a href="Form.html">Furniture</a></div>
+                     <div class="btn_main active"><a href="Form.php">Furniture</a></div>
                   </div>
                   <div class="col-md-4">
                      <div><img src="images/lightbulblit-57a5bf6b5f9b58974aee831e.jpg" class="services_img" style="height: 27rem;"></div>
-                     <div class="btn_main"><a href="Form.html">Electricity</a></div>
+                     <div class="btn_main"><a href="Form.php">Electricity</a></div>
                   </div>
                </div>
             </div>
